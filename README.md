@@ -9,8 +9,11 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Algorithm:
 1.Input the dataset with hours studied and marks scored.
+
 2.Split the data into training and testing sets.
+
 3.Train the Simple Linear Regression model.
+
 4.Predict marks and evaluate the results.
 
 
